@@ -10,7 +10,7 @@ function App() {
       {/* aqui empiezo a maquetar */}
       <section className="container my-4">
         <h1 className="display-3 text-center">Contador con React</h1>
-        <TituloSecundario></TituloSecundario>
+        {/* <TituloSecundario></TituloSecundario> */}
         <TituloSecundario/>
       </section>
     </>
